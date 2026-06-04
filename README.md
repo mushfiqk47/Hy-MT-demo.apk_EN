@@ -92,4 +92,5 @@ All 38 language names in the source/target language picker translated from Chine
 - **Method**: APK decompiled with `apktool 2.11.1`, resources and smali code patched, then rebuilt and signed
 - **App package**: `com.tencent.hunyuan.angelslim`
 - **Model**: Tencent HY-MT1.5 (on-device translation via llama.cpp/GGML)
+- **Model weights**: [AngelSlim/Hy-MT1.5-1.8B-1.25bit](https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit) on Hugging Face
 - **Signed with**: Android debug key (requires uninstall of original app before install)
